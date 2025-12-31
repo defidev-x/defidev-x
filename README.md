@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @defidev-x
-- 👀 I’m interested in DeFi development, algorithmic trading and web3 security.
-- 🤓 I’m currently learning advanced Solidity through RareSkills, Encode Club and Cyfrin.
-- 📫 You can reach me at defidev.xyz@gmail.com
+
